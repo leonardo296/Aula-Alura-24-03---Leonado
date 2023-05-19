@@ -1,2 +1,10 @@
 header{background-color: rgb(0, 0, 0);
-color: rgb(255, 0, 34);}
+color: #c8ff00;}
+
+.ESCOLA-IMAGEM{
+    width: 25%;
+}
+
+.ESCOLA-IMAGEM{
+    background-image: linear-gradient(#ff0022,#c8ff00);
+}
