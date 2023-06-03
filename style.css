@@ -8,3 +8,14 @@ color: #c8ff00;}
 .ESCOLA-IMAGEM{
     background-image: linear-gradient(#ff0022,#c8ff00);
 }
+
+.estudante-imagem{
+    width: 350px;
+}
+.outra-imagem{
+    width: 260px;
+}
+
+.estudante-div{
+    text-align: center;
+}
